@@ -13,7 +13,6 @@ st.set_page_config(page_title="Customer Churn Predictor", page_icon="📉")
 # -----------------------------
 # App Logo
 # -----------------------------
-st.sidebar.image("images/Network.png", width=300)
 st.sidebar.write("Predict churn. Reduce losses. Enhance customer loyalty.")
 
 
